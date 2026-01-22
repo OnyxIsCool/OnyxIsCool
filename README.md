@@ -1,16 +1,20 @@
-## Hi there 👋
+# About Me 
+A Scripter/Developer
+i wish to be the best programmer🥹
+<hr>
 
-<!--
-**OnyxIsCool/OnyxIsCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages & Skills
 
-Here are some ideas to get you started:
+[![My Langs](https://skillicons.dev/icons?i=lua,python,js,nodejs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=robloxstudio,vscode)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
+### Projects
+- **Project: Kernel**
+
+### Donate
+- Ethereum: ```0xfc845a80197e65c978da6ac50eef5a71e0a8108d```
+- DogeCoin: ```DF4qM9pyvYdPFHGH5nVEVftguiMzBkPxma```
