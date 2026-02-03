@@ -13,8 +13,8 @@ i wish to be the best programmer🥹
 
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
-### Projects
-- **SynWare**
+### Teams
+- **Claire Studios**
 
 ### Donate
 - Ethereum: ```0xfc845a80197e65c978da6ac50eef5a71e0a8108d```
